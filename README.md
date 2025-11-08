@@ -15,9 +15,8 @@ Ce site met en avant les menus, les boissons et l’identité du restaurant de m
 📸 **Aperçu visuel :**  
 *(Ajoute ici une capture d’écran de ton site une fois hébergé sur GitHub Pages)*  
 Exemple :  
-![Aperçu du site](./screenshot.png)
+![Aperçu du site](---<img width="1899" height="921" alt="restaurant" src="https://github.com/user-attachments/assets/048b4f3e-d5ae-4728-97d3-2b1c79a5a480" />)
 
----
 
 ## 🧱 Structure du projet
 
