@@ -13,10 +13,7 @@ Ce site met en avant les menus, les boissons et l’identité du restaurant de m
 🎯 **Objectif** : Créer un site web statique (HTML/CSS) qui présente un restaurant de manière attrayante, facile à naviguer et adaptée à tous les écrans.
 
 📸 **Aperçu visuel :**  
-*(Ajoute ici une capture d’écran de ton site une fois hébergé sur GitHub Pages)*  
-Exemple :  
 ![Aperçu du site](---<img width="1899" height="921" alt="restaurant" src="https://github.com/user-attachments/assets/048b4f3e-d5ae-4728-97d3-2b1c79a5a480" />)
-
 
 ## 🧱 Structure du projet
 
@@ -35,14 +32,13 @@ Restaurant_Web_site/
 
 - **HTML5** → structure du site  
 - **CSS3** → mise en page et design responsive  
-- *(Optionnel : ajouter JavaScript si tu l’utilises plus tard)*
 
 ---
 
 ## 🚀 Hébergement du site
 
 Le site est hébergé gratuitement via **GitHub Pages**.  
-👉 [Voir le site en ligne](https://prosperguwe582-gif.github.io/Restaurant_Web_site/) *(remplace ce lien par ton lien réel)*
+👉 [Voir le site en ligne](https://prosperguwe582-gif.github.io/Restaurant_Web_site/) 
 
 ---
 
@@ -62,7 +58,7 @@ Tu peux facilement personnaliser le logo, les images et les couleurs selon ton i
 
 👨‍💻 **Prosper GUWE**  
 Développeur web passionné, spécialisé dans la création de sites simples, modernes et efficaces.  
-📧 [Contactez-moi par email](mailto:ton.email@gmail.com)  
+📧 [Contactez-moi par email](mailto:prosperguwe582@gmail.com)  
 🌍 [Mon profil GitHub](https://github.com/prosperguwe582-gif)
 
 ---
